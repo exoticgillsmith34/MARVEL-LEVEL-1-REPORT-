@@ -49,6 +49,8 @@ up of 60% TIN and 40% Lead. This is heated upto a temperature of 650* F. The wel
 On the 6th of July I visited an **INSIDE TALK** conducted by **SAP LABS**. The Technical event fostered the ideas of AI in Business Management. Various speakers of SAP LABS 
 disscussed topics of GenAI, Open Source AI, and AI Robotic. The sessions involved using the current market trends and developing a AI model suited for the business. The 
 interactive sessions were wholesome!
+![Screenshot_20240721-173926](https://github.com/user-attachments/assets/4a8aed6d-375b-418b-ad01-428a4408e5ca)
+
 
 ## 9) REPORT WRITING ON DATA SHEETS
 ### MQ135 REPORT
